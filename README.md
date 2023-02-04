@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-DbntAiDLSn)
 - Live Site URL: [Go to site](https://jeffabenoja.github.io/product_preview/)
 
 ### Built with
