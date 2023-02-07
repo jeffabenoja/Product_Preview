@@ -38,6 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Renz Jefferson A. Padro]
 - Frontend Mentor - [@jeffabenoja](https://www.frontendmentor.io/profile/jeffabenoja)
 - Facebook - [@wazsupabenoja](https://www.facebook.com/wazsupabenoja)
