@@ -40,3 +40,4 @@ Users should be able to:
 
 - Frontend Mentor - [@jeffabenoja](https://www.frontendmentor.io/profile/jeffabenoja)
 - Facebook - [@wazsupabenoja](https://www.facebook.com/wazsupabenoja)
+- LinkedIn - [@jeffabenoja](https://www.linkedin.com/in/jeffabenoja/)
