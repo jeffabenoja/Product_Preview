@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [See the solution here](https://your-solution-url.com)
+- Solution URL: [See the solution here](https://github.com/jeffabenoja/product_preview.git)
 - Live Site URL: [Go to site](https://your-live-site-url.com)
 
 ### Built with
