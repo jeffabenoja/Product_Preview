@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [See the solution here](https://github.com/jeffabenoja/product_preview.git)
-- Live Site URL: [Go to site](https://your-live-site-url.com)
+- Live Site URL: [Go to site](https://jeffabenoja.github.io/product_preview/)
 
 ### Built with
 
