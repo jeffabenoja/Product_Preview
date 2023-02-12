@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="./css/style.css">
+  
+  <title>Frontend Mentor | Product preview card component</title>
+</head>
+<body>
+  <!-- Main Container for Main Content -->
+  <main class="container">
+    <!-- Img for both Desktop and Mobile -->
+    <div class="product-img">
+      <img id='desktopImg' src="./image-product-desktop.jpg" alt="Product Image"/>
+      <img id="mobileImg" src="./image-product-mobile.jpg" alt="Product Image"/>
+    </div>
+    <!-- Details about the product -->
+    <div class="productDescription">
+      <!-- <header class="productHeader">
+        <h5>Perfume</h5>
+        <div class="productName">
+          <h1>Gabrielle Essence Eau De Parfum</h1>
+        </div>
+      </header> -->
+      <p class="paragName">Perfume</p>
+      <h1 class="productName">
+        Gabrielle Essence Eau De Parfum
+      </h1>
+      <div class="productDetails">
+        <p>A floral, solar and voluptuous interpretation composed by Olivier Polge, 
+          Perfumer-Creator for the House of CHANEL.</p>
+      </div>
+      <!-- Current and old price of the product -->
+      <div class="productPrice">
+        <span class="currentPrice">$149.99</span>
+        <!-- <span class="oldPrice"><del>$169.99</del></span> -->
+        <del class="oldPrice"><span aria-hidden="true">$169.99</span></del>
+      </div>
+      <button type='button' class="btn">
+        <img src="./icon-cart.svg" alt="Add cart icon"/>
+        <span>Add to cart</span>
+      </button>
+    </div>
+  </main>
+
+  <!-- Some details about the page and the name of the author -->
+  <footer>
+    Challenge by <a  href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noopener noreferrer">Frontend Mentor</a>.
+    Coded by <a href="#">Renz Jefferson A. Padro</a>.
+  </footer>
+</body>
+</html>
